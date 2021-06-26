@@ -1,0 +1,5 @@
+nltk
+pandas
+fasttext
+numpy
+wordcloud
